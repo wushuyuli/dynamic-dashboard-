@@ -3,5 +3,6 @@ pandas
 numpy
 plotly
 geopandas
-json
-os
+shapely
+pyproj
+fiona
